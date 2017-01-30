@@ -6,6 +6,6 @@ Here is Siraj's challenge:
 
 ##Usage
 
-Run ``python challenge.py``.
+Run ``python 3layer.py``.
 
 
